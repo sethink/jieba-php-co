@@ -22,7 +22,7 @@
     },
     "autoload": {
         "files": [
-            "src/class/JiebaCo.php",
+            "src/JiebaCo.php",
             "src/class/Jieba.php",
             "src/class/JiebaAnalyse.php",
             "src/class/Finalseg.php",
